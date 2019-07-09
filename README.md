@@ -19,7 +19,10 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 | Javascript - Authentification 2 |
 | Javascript - Obfuscation 1      |
 
-**Day 6** : RootMe challenges :   
+**Day 6** : 
+* CSRF course  
+
+* RootMe challenges :     
 
 | Challenge                       | 
 | ------------------------------- | 
