@@ -16,6 +16,20 @@ Inspired by the #100DaysOfCode challenge, but focusing of cybersecurity, systems
 * Javascript - Authentification 2  
 * Javascript - Obfuscation 1  
 
+
+
+| Challenge                       | Catégorie     | Level  |
+| ------------------------------- |:-------------:| ------:|
+| HTML - code source              | right-aligned | $1600  |
+| Mot de passe faible             | centered      |   $12  |
+| TTP - directory indexing        |
+| HTTP - POST                     |
+| HTML - boutons désactivés       |
+| Javascript - Authentification   |
+| Javascript - Source             |
+| Javascript - Authentification 2 | 
+| Javascript - Obfuscation 1      |
+
 **Day 6** : RootMe challenges :   
   * Javascript - Native code
   * Javascript - Obfuscation 3
