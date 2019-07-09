@@ -7,18 +7,21 @@ Inspired by the #100DaysOfCode challenge, but focusing of cybersecurity, systems
 **Day 4** : RGDP MOOC (Part 4/4) --> Certification  
 **Day 5** : RootMe challenges :   
 
-| Challenge                       | Level         |
-| ------------------------------- |:-------------:| 
-| HTML - code source              | Very Easy          |
-| Mot de passe faible             | Very Easy          |
-| TTP - directory indexing        | Very Easy          |
-| HTTP - POST                     | Very Easy          |
-| HTML - boutons désactivés       | Easy          |
-| Javascript - Authentification   | Easy          |
-| Javascript - Source             | Easy          |
-| Javascript - Authentification 2 | Easy          |
-| Javascript - Obfuscation 1      | Easy          |
+| Challenge                       | 
+| ------------------------------- | 
+| HTML - code source              | 
+| Mot de passe faible             | 
+| TTP - directory indexing        | 
+| HTTP - POST                     | 
+| HTML - boutons désactivés       | 
+| Javascript - Authentification   | 
+| Javascript - Source             | 
+| Javascript - Authentification 2 |
+| Javascript - Obfuscation 1      |
 
 **Day 6** : RootMe challenges :   
-  * Javascript - Native code
-  * Javascript - Obfuscation 3
+
+| Challenge                       | 
+| ------------------------------- | 
+| Javascript - Native code              | 
+| Javascript - Obfuscation 3             | 
