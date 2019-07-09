@@ -15,3 +15,7 @@ Inspired by the #100DaysOfCode challenge, but focusing of cybersecurity, systems
 * Javascript - Source  
 * Javascript - Authentification 2  
 * Javascript - Obfuscation 1  
+
+*Day 6* : RootMe challenges :   
+  * Javascript - Native code
+  * Javascript - Obfuscation 3
