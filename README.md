@@ -26,3 +26,15 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 | ------------------------------- | 
 | Javascript - Native code              | 
 | Javascript - Obfuscation 3             | 
+
+
+**Day 7** : 
+* Course : Understanding and Discovering Open Redirect Vulnerabilities  
+* RootMe challenges :  
+
+| Challenge                       | 
+| ------------------------------- | 
+|  	Encodage - ASCII|
+|Encodage - UU|
+|Hash - Message Digest 5              | 
+ 
