@@ -20,7 +20,6 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 **Day 6** : 
 * CSRF course  
 * Course : OWASP testing guide v4  
-
 * RootMe challenges :     
 
 | Challenge                       | 
