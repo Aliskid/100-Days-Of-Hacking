@@ -39,4 +39,8 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 |  	Encodage - ASCII|
 |Encodage - UU|
 |Hash - Message Digest 5              | 
+
+**Day 8** :  
+* Course reading on cybersecurity bases : famous cyberattacks  
+* Course reading : BlackHat US 2009 favorite XSS Filters-IDS and how to attack them  
  
