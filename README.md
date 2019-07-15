@@ -43,4 +43,7 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 **Day 8** :  
 * Course reading on cybersecurity bases : famous cyberattacks  
 * Course reading : BlackHat US 2009 favorite XSS Filters-IDS and how to attack them  
-* Reading : Vulnerabilities OWASP
+* Reading : Vulnerabilities OWASP  
+
+**Day 9** :  
+* Course : OWASP testing guide v4  
