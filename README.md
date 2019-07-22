@@ -47,3 +47,7 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 
 **Day 9** :  
 * Course : OWASP testing guide v4  
+
+**Day 10** :   
+* Reading : failles applicatives  
+
