@@ -52,6 +52,23 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 * Reading : failles applicatives  
 
 **Day 11** :  
+
+
+| Challenge                       | 
+| ------------------------------- | 
+| HTML - code source              | 
+| Mot de passe faible             | 
+| TTP - directory indexing        | 
+| HTTP - POST                     | 
+| HTML - boutons désactivés       | 
+| Javascript - Authentification   | 
+| Javascript - Source             | 
+| Javascript - Authentification 2 |
+| Javascript - Obfuscation 1      |
+
+
+
+
 * Challenge Root-Me :  
 | Challenge                       | 
 | ------------------------------- | 
