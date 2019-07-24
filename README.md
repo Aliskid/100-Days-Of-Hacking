@@ -52,8 +52,6 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 * Reading : failles applicatives  
 
 **Day 11** :  
-| Challenge                       | 
-| ------------------------------- | 
-| Javascript - Native code              | 
-| Javascript - Obfuscation 3             | 
+* Challenge Root-Me : Fichiers de sauvegarde  
+
 
