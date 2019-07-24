@@ -54,8 +54,6 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 **Day 11** :   
 | Challenge                       | 
 | ------------------------------- | 
-|  Fichier de sauvegarde          | 
-  
-  
+| Fichier de sauvegarde              | 
 
 
