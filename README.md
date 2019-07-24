@@ -52,6 +52,13 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 * Reading : failles applicatives  
 
 **Day 11** :  
-* Challenge Root-Me : Fichiers de sauvegarde  
+* Challenge Root-Me :  
+| Challenge                       | 
+| ------------------------------- | 
+| Fichiers de sauvegarde              | 
+| HTTP - POST             | 
+| HTTP - directory indexing |
+| PHP - Injection de commande |
+
 
 
