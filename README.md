@@ -9,7 +9,7 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 | ------------------------------- | 
 | HTML - code source              | 
 | Mot de passe faible             | 
-| TTP - directory indexing        | 
+| HTTP - directory indexing        | 
 | HTTP - POST                     | 
 | HTML - boutons désactivés       | 
 | Javascript - Authentification   | 
@@ -56,26 +56,11 @@ Created by me. Inspired by the #100DaysOfCode challenge, but focusing of cyberse
 
 | Challenge                       | 
 | ------------------------------- | 
-| HTML - code source              | 
-| Mot de passe faible             | 
-| TTP - directory indexing        | 
-| HTTP - POST                     | 
-| HTML - boutons désactivés       | 
-| Javascript - Authentification   | 
-| Javascript - Source             | 
-| Javascript - Authentification 2 |
-| Javascript - Obfuscation 1      |
-
-
-
-
-* Challenge Root-Me :  
-| Challenge                       | 
-| ------------------------------- | 
 | Fichiers de sauvegarde              | 
-| HTTP - POST             | 
-| HTTP - directory indexing |
-| PHP - Injection de commande |
+| PHP - Injection de command             | 
+| HTML - code source        | 
+
+
 
 
 
